@@ -1,4 +1,5 @@
-# rak-git13    1) To find the Average of the given item
+# rak-git13    
+               1)To find the Average of the given item
                2)To find 10% discount on the items
 
 avg a of the class = 64.5
